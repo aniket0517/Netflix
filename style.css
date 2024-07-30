@@ -8,7 +8,7 @@ body{
     background-color: black;
 }
 .main{
-    background-image: url(/assets/images/netflix.jpg);
+    background-image: url(assets/images/netflix.jpg);
     height: 70vh;
     background-position: center;
     background-repeat: no-repeat;
